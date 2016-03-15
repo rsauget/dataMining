@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+<entry key="node_file" type="xstring" value="settings.xml"/>
+<config key="flow_stack"/>
+<config key="internal_node_subsettings">
+<entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+</config>
+<config key="model">
+<config key="columnType_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="columnType" type="xstring" value="MULTI_NUMERICAL"/>
+<config key="multiStringColumnPatter_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="false"/>
+</config>
+<entry key="multiStringColumnPatter" type="xstring" isnull="true" value=""/>
+<config key="multiStringColumnHasWildcards_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="false"/>
+</config>
+<entry key="multiStringColumnHasWildcards" type="xboolean" value="false"/>
+<config key="multiStringColumnCaseSensitive_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="false"/>
+</config>
+<entry key="multiStringColumnCaseSensitive" type="xboolean" value="false"/>
+<config key="multiStringColumnIsRegex_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="false"/>
+</config>
+<entry key="multiStringColumnIsRegex" type="xboolean" value="false"/>
+<config key="multiStringColumnSetMatching_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="false"/>
+</config>
+<entry key="multiStringColumnSetMatching" type="xstring" value="MATCHING"/>
+<config key="multiColumnNames">
+<entry key="filter-type" type="xstring" value="STANDARD"/>
+<config key="included_names">
+<entry key="array-size" type="xint" value="123"/>
+<entry key="0" type="xstring" value="lyon"/>
+<entry key="1" type="xstring" value="franc"/>
+<entry key="2" type="xstring" value="canon"/>
+<entry key="3" type="xstring" value="eo"/>
+<entry key="4" type="xstring" value="fourvier"/>
+<entry key="5" type="xstring" value="rhone"/>
+<entry key="6" type="xstring" value="croixrouss"/>
+<entry key="7" type="xstring" value="rhonealp"/>
+<entry key="8" type="xstring" value="graffiti"/>
+<entry key="9" type="xstring" value="fresqu"/>
+<entry key="10" type="xstring" value="saon"/>
+<entry key="11" type="xstring" value="rue"/>
+<entry key="12" type="xstring" value="rouss"/>
+<entry key="13" type="xstring" value="couleur"/>
+<entry key="14" type="xstring" value="rhône"/>
+<entry key="15" type="xstring" value="rhônealp"/>
+<entry key="16" type="xstring" value="canoneos6d"/>
+<entry key="17" type="xstring" value="architectur"/>
+<entry key="18" type="xstring" value="noiretblanc"/>
+<entry key="19" type="xstring" value="basiliqu"/>
+<entry key="20" type="xstring" value="mur"/>
+<entry key="21" type="xstring" value="confluenc"/>
+<entry key="22" type="xstring" value="pont"/>
+<entry key="23" type="xstring" value="vill"/>
+<entry key="24" type="xstring" value="nikon"/>
+<entry key="25" type="xstring" value="francia"/>
+<entry key="26" type="xstring" value="lion"/>
+<entry key="27" type="xstring" value="35mm"/>
+<entry key="28" type="xstring" value="fourvièr"/>
+<entry key="29" type="xstring" value="vieuxlyon"/>
+<entry key="30" type="xstring" value="musé"/>
+<entry key="31" type="xstring" value="natur"/>
+<entry key="32" type="xstring" value="lumièr"/>
+<entry key="33" type="xstring" value="automn"/>
+<entry key="34" type="xstring" value="parcdelatêtedor"/>
+<entry key="35" type="xstring" value="parc"/>
+<entry key="36" type="xstring" value="macro"/>
+<entry key="37" type="xstring" value="girl"/>
+<entry key="38" type="xstring" value="peopl"/>
+<entry key="39" type="xstring" value="white"/>
+<entry key="40" type="xstring" value="black"/>
+<entry key="41" type="xstring" value="fêtedeslumièr"/>
+<entry key="42" type="xstring" value="upload"/>
+<entry key="43" type="xstring" value="byflickrmobil"/>
+<entry key="44" type="xstring" value="flickriosapp"/>
+<entry key="45" type="xstring" value="streetart"/>
+<entry key="46" type="xstring" value="pasteup"/>
+<entry key="47" type="xstring" value="collag"/>
+<entry key="48" type="xstring" value="paper"/>
+<entry key="49" type="xstring" value="europ"/>
+<entry key="50" type="xstring" value="wheatpast"/>
+<entry key="51" type="xstring" value="past"/>
+<entry key="52" type="xstring" value="wheatpap"/>
+<entry key="53" type="xstring" value="blackwhit"/>
+<entry key="54" type="xstring" value="blackandwhit"/>
+<entry key="55" type="xstring" value="river"/>
+<entry key="56" type="xstring" value="saôn"/>
+<entry key="57" type="xstring" value="nuit"/>
+<entry key="58" type="xstring" value="squareformat"/>
+<entry key="59" type="xstring" value="squar"/>
+<entry key="60" type="xstring" value="fleuv"/>
+<entry key="61" type="xstring" value="church"/>
+<entry key="62" type="xstring" value="sculptur"/>
+<entry key="63" type="xstring" value="night"/>
+<entry key="64" type="xstring" value="wall"/>
+<entry key="65" type="xstring" value="bridg"/>
+<entry key="66" type="xstring" value="guillotièr"/>
+<entry key="67" type="xstring" value="urban"/>
+<entry key="68" type="xstring" value="winter"/>
+<entry key="69" type="xstring" value="sunnyday"/>
+<entry key="70" type="xstring" value="d3200"/>
+<entry key="71" type="xstring" value="bellecour"/>
+<entry key="72" type="xstring" value="croix"/>
+<entry key="73" type="xstring" value="citi"/>
+<entry key="74" type="xstring" value="oldtown"/>
+<entry key="75" type="xstring" value="terreaux"/>
+<entry key="76" type="xstring" value="saint"/>
+<entry key="77" type="xstring" value="vieux"/>
+<entry key="78" type="xstring" value="theatr"/>
+<entry key="79" type="xstring" value="mural"/>
+<entry key="80" type="xstring" value="frankreich"/>
+<entry key="81" type="xstring" value="kirch"/>
+<entry key="82" type="xstring" value="архитектура"/>
+<entry key="83" type="xstring" value="франция"/>
+<entry key="84" type="xstring" value="лион"/>
+<entry key="85" type="xstring" value="oldhous"/>
+<entry key="86" type="xstring" value="earlysundaymorn"/>
+<entry key="87" type="xstring" value="jacquesmeynierdemalviala"/>
+<entry key="88" type="xstring" value="tôtundimanchematin"/>
+<entry key="89" type="xstring" value="panason"/>
+<entry key="90" type="xstring" value="traboul"/>
+<entry key="91" type="xstring" value="fetedeslumier"/>
+<entry key="92" type="xstring" value="manifest"/>
+<entry key="93" type="xstring" value="iphoneographi"/>
+<entry key="94" type="xstring" value="instagramapp"/>
+<entry key="95" type="xstring" value="byinstagram"/>
+<entry key="96" type="xstring" value="lumix"/>
+<entry key="97" type="xstring" value="lyo15"/>
+<entry key="98" type="xstring" value="charlemagn"/>
+<entry key="99" type="xstring" value="francja"/>
+<entry key="100" type="xstring" value="librari"/>
+<entry key="101" type="xstring" value="ifla"/>
+<entry key="102" type="xstring" value="wlic"/>
+<entry key="103" type="xstring" value="eblida"/>
+<entry key="104" type="xstring" value="d800"/>
+<entry key="105" type="xstring" value="feu"/>
+<entry key="106" type="xstring" value="foursquar"/>
+<entry key="107" type="xstring" value="hockey"/>
+<entry key="108" type="xstring" value="lhc"/>
+<entry key="109" type="xstring" value="leica"/>
+<entry key="110" type="xstring" value="summicron"/>
+<entry key="111" type="xstring" value="leitz"/>
+<entry key="112" type="xstring" value="summicronr"/>
+<entry key="113" type="xstring" value="summicronr35mmf2"/>
+<entry key="114" type="xstring" value="leitax"/>
+<entry key="115" type="xstring" value="l35d800"/>
+<entry key="116" type="xstring" value="street"/>
+<entry key="117" type="xstring" value="boottocht"/>
+<entry key="118" type="xstring" value="artific"/>
+<entry key="119" type="xstring" value="spectacl"/>
+<entry key="120" type="xstring" value="filternofilt"/>
+<entry key="121" type="xstring" value="xproii"/>
+<entry key="122" type="xstring" value="rise"/>
+</config>
+<config key="excluded_names">
+<entry key="array-size" type="xint" value="2"/>
+<entry key="0" type="xstring" value="lat"/>
+<entry key="1" type="xstring" value="long"/>
+</config>
+<entry key="enforce_option" type="xstring" value="EnforceExclusion"/>
+<config key="name_pattern">
+<entry key="pattern" type="xstring" value=""/>
+<entry key="type" type="xstring" value="Wildcard"/>
+<entry key="caseSensitive" type="xboolean" value="true"/>
+</config>
+<config key="datatype">
+<config key="typelist">
+<entry key="org.knime.core.data.BooleanValue" type="xboolean" value="false"/>
+<entry key="org.knime.core.data.date.DateAndTimeValue" type="xboolean" value="false"/>
+<entry key="org.knime.core.data.DoubleValue" type="xboolean" value="false"/>
+<entry key="org.knime.core.data.IntValue" type="xboolean" value="false"/>
+<entry key="org.knime.core.data.LongValue" type="xboolean" value="false"/>
+<entry key="org.knime.core.data.StringValue" type="xboolean" value="false"/>
+<entry key="org.knime.ext.textprocessing.data.DocumentValue" type="xboolean" value="false"/>
+</config>
+</config>
+</config>
+<config key="singleNumericThreshold_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_double"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="singleNumericThreshold" type="xdouble" value="1.0"/>
+<config key="singleNumericUseMean_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="singleNumericUseMean" type="xboolean" value="false"/>
+<config key="singleNumericMeanThreshold_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+<entry key="EnabledStatus" type="xboolean" value="false"/>
+</config>
+<entry key="singleNumericMeanThreshold" type="xint" value="100"/>
+<config key="singleColumnName_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="false"/>
+</config>
+<entry key="singleColumnName" type="xstring" isnull="true" value=""/>
+<config key="singleStringType_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="false"/>
+</config>
+<entry key="singleStringType" type="xstring" value="BIT"/>
+<config key="removeInputColumns_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="removeInputColumns" type="xboolean" value="false"/>
+<config key="outputColumnName_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="outputColumnName" type="xstring" value="BitVector"/>
+<config key="failOnParseError_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="failOnParseError" type="xboolean" value="false"/>
+<config key="vectorType_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="vectorType" type="xstring" value="DENSE"/>
+</config>
+<entry key="customDescription" type="xstring" isnull="true" value=""/>
+<entry key="state" type="xstring" value="EXECUTED"/>
+<entry key="factory" type="xstring" value="org.knime.base.node.preproc.bitvector.create.CreateBitVectorNodeFactory"/>
+<entry key="node-name" type="xstring" value="Create Bit Vector"/>
+<entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
+<entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
+<entry key="node-bundle-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
+<entry key="node-bundle-version" type="xstring" value="3.1.1.v201601211102"/>
+<entry key="node-feature-name" type="xstring" value="KNIME Core"/>
+<entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
+<entry key="node-feature-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
+<entry key="node-feature-version" type="xstring" value="3.1.1.v201601291159"/>
+<config key="factory_settings"/>
+<entry key="name" type="xstring" value="Create Bit Vector"/>
+<entry key="hasContent" type="xboolean" value="true"/>
+<entry key="isInactive" type="xboolean" value="false"/>
+<config key="ports">
+<config key="port_1">
+<entry key="index" type="xint" value="1"/>
+<entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
+<entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 311, Cols: 131"/>
+<entry key="port_dir_location" type="xstring" value="port_1"/>
+</config>
+</config>
+<config key="filestores">
+<entry key="file_store_location" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" value="b7ce3540-620d-4bf9-afe2-f6546fe5bf11"/>
+</config>
+</config>
