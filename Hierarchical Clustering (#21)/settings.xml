@@ -10,7 +10,7 @@
 <entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
 </config>
-<entry key="numberClusters" type="xint" value="3"/>
+<entry key="numberClusters" type="xint" value="40"/>
 <config key="distFunction_Internals">
 <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -20,7 +20,7 @@
 <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
 </config>
-<entry key="linkageType" type="xstring" value="SINGLE"/>
+<entry key="linkageType" type="xstring" value="COMPLETE"/>
 <config key="cacheDistances_Internals">
 <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -37,14 +37,13 @@
 <entry key="1" type="xstring" value="long"/>
 </config>
 <config key="ExclList">
-<entry key="array-size" type="xint" value="1"/>
-<entry key="0" type="xstring" value="id"/>
+<entry key="array-size" type="xint" value="0"/>
 </config>
 <entry key="keep_all_columns_selected" type="xboolean" value="false"/>
 </config>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
-<entry key="state" type="xstring" value="EXECUTED"/>
+<entry key="state" type="xstring" value="CONFIGURED"/>
 <entry key="factory" type="xstring" value="org.knime.base.node.mine.cluster.hierarchical.HierarchicalClusterNodeFactory"/>
 <entry key="node-name" type="xstring" value="Hierarchical Clustering"/>
 <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
@@ -57,19 +56,16 @@
 <entry key="node-feature-version" type="xstring" value="3.1.1.v201601291159"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="Hierarchical Clustering"/>
-<entry key="hasContent" type="xboolean" value="true"/>
+<entry key="hasContent" type="xboolean" value="false"/>
 <entry key="isInactive" type="xboolean" value="false"/>
 <config key="ports">
 <config key="port_1">
 <entry key="index" type="xint" value="1"/>
-<entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
-<entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 1000, Cols: 6"/>
-<entry key="port_dir_location" type="xstring" value="port_1"/>
+<entry key="port_dir_location" type="xstring" isnull="true" value=""/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="956dcce5-2d0d-4e93-9e80-f3d6ca7e9a18"/>
+<entry key="file_store_id" type="xstring" isnull="true" value=""/>
 </config>
 </config>

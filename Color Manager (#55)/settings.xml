@@ -9,25 +9,25 @@
 <entry key="selected_column" type="xstring" value="Cluster"/>
 <entry key="is_nominal" type="xboolean" value="true"/>
 <entry key="cluster_0" type="xint" value="-65536"/>
-<entry key="cluster_1" type="xint" value="-45824"/>
-<entry key="cluster_2" type="xint" value="-26368"/>
-<entry key="cluster_3" type="xint" value="-6656"/>
-<entry key="cluster_4" type="xint" value="-3342592"/>
-<entry key="cluster_5" type="xint" value="-8323328"/>
-<entry key="cluster_6" type="xint" value="-13369600"/>
-<entry key="cluster_7" type="xint" value="-16711911"/>
-<entry key="cluster_8" type="xint" value="-16711834"/>
-<entry key="cluster_9" type="xint" value="-16711758"/>
-<entry key="cluster_10" type="xint" value="-16711681"/>
-<entry key="cluster_11" type="xint" value="-16731393"/>
-<entry key="cluster_12" type="xint" value="-16750849"/>
-<entry key="cluster_13" type="xint" value="-16770305"/>
-<entry key="cluster_14" type="xint" value="-13434625"/>
-<entry key="cluster_15" type="xint" value="-8388353"/>
-<entry key="cluster_16" type="xint" value="-3407617"/>
-<entry key="cluster_17" type="xint" value="-65307"/>
-<entry key="cluster_18" type="xint" value="-65383"/>
-<entry key="cluster_19" type="xint" value="-65459"/>
+<entry key="cluster_1" type="xint" value="-55808"/>
+<entry key="cluster_2" type="xint" value="-45824"/>
+<entry key="cluster_3" type="xint" value="-36096"/>
+<entry key="cluster_4" type="xint" value="-26368"/>
+<entry key="cluster_5" type="xint" value="-16640"/>
+<entry key="cluster_6" type="xint" value="-6656"/>
+<entry key="cluster_7" type="xint" value="-852224"/>
+<entry key="cluster_8" type="xint" value="-3342592"/>
+<entry key="cluster_9" type="xint" value="-5832960"/>
+<entry key="cluster_10" type="xint" value="-8323328"/>
+<entry key="cluster_11" type="xint" value="-10879232"/>
+<entry key="cluster_12" type="xint" value="-13369600"/>
+<entry key="cluster_13" type="xint" value="-15859968"/>
+<entry key="cluster_14" type="xint" value="-16711911"/>
+<entry key="cluster_15" type="xint" value="-16711872"/>
+<entry key="cluster_16" type="xint" value="-16711834"/>
+<entry key="cluster_17" type="xint" value="-16711796"/>
+<entry key="cluster_18" type="xint" value="-16711758"/>
+<entry key="cluster_19" type="xint" value="-16711719"/>
 <entry key="cluster_20" type="xint" value="-16711681"/>
 <entry key="cluster_21" type="xint" value="-16721409"/>
 <entry key="cluster_22" type="xint" value="-16731393"/>
@@ -293,7 +293,11 @@
 </config>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
-<entry key="state" type="xstring" value="EXECUTED"/>
+<entry key="state" type="xstring" value="IDLE"/>
+<config key="nodecontainer_message">
+<entry key="type" type="xstring" value="WARNING"/>
+<entry key="message" type="xstring" value="Column &quot;Cluster&quot; has no nominal values set: execute predecessor or add Binner."/>
+</config>
 <entry key="factory" type="xstring" value="org.knime.base.node.viz.property.color.ColorManager2NodeFactory"/>
 <entry key="node-name" type="xstring" value="Color Manager"/>
 <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
@@ -306,28 +310,20 @@
 <entry key="node-feature-version" type="xstring" value="3.1.1.v201601291159"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="Color Manager"/>
-<entry key="hasContent" type="xboolean" value="true"/>
+<entry key="hasContent" type="xboolean" value="false"/>
 <entry key="isInactive" type="xboolean" value="false"/>
 <config key="ports">
 <config key="port_1">
 <entry key="index" type="xint" value="1"/>
-<entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
-<entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 6147, Cols: 6"/>
-<entry key="port_dir_location" type="xstring" value="port_1"/>
+<entry key="port_dir_location" type="xstring" isnull="true" value=""/>
 </config>
 <config key="port_2">
 <entry key="index" type="xint" value="2"/>
-<entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
-<entry key="port_object_class" type="xstring" value="org.knime.core.node.port.viewproperty.ColorHandlerPortObject"/>
-<entry key="port_object_summary" type="xstring" value="Coloring on &quot;Cluster&quot;"/>
-<entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
-<entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
-<entry key="port_dir_location" type="xstring" value="port_2"/>
+<entry key="port_dir_location" type="xstring" isnull="true" value=""/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="41130754-445b-41f9-9d35-9823f0066c6b"/>
+<entry key="file_store_id" type="xstring" isnull="true" value=""/>
 </config>
 </config>

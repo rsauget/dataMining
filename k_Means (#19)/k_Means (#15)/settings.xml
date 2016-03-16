@@ -10,7 +10,7 @@
 <entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
 </config>
-<entry key="nrClusters" type="xint" value="20"/>
+<entry key="nrClusters" type="xint" value="40"/>
 <config key="maxNrIterations_Internals">
 <entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -27,8 +27,7 @@
 <entry key="1" type="xstring" value="long"/>
 </config>
 <config key="ExclList">
-<entry key="array-size" type="xint" value="1"/>
-<entry key="0" type="xstring" value="id"/>
+<entry key="array-size" type="xint" value="0"/>
 </config>
 <entry key="keep_all_columns_selected" type="xboolean" value="false"/>
 </config>
@@ -61,7 +60,7 @@
 <entry key="index" type="xint" value="2"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 20, Cols: 2"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 40, Cols: 2"/>
 <entry key="port_dir_location" type="xstring" value="port_2"/>
 </config>
 <config key="port_3">
@@ -76,6 +75,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="e743cd69-de11-4061-88cc-b5e8bae72d0a"/>
+<entry key="file_store_id" type="xstring" value="7d27c8ec-6a2b-44a6-b674-910db302828c"/>
 </config>
 </config>
