@@ -11,31 +11,6 @@
 <entry key="EnabledStatus" type="xboolean" value="true"/>
 </config>
 <entry key="columnType" type="xstring" value="MULTI_NUMERICAL"/>
-<config key="multiStringColumnPatter_Internals">
-<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
-<entry key="EnabledStatus" type="xboolean" value="false"/>
-</config>
-<entry key="multiStringColumnPatter" type="xstring" isnull="true" value=""/>
-<config key="multiStringColumnHasWildcards_Internals">
-<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
-<entry key="EnabledStatus" type="xboolean" value="false"/>
-</config>
-<entry key="multiStringColumnHasWildcards" type="xboolean" value="false"/>
-<config key="multiStringColumnCaseSensitive_Internals">
-<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
-<entry key="EnabledStatus" type="xboolean" value="false"/>
-</config>
-<entry key="multiStringColumnCaseSensitive" type="xboolean" value="false"/>
-<config key="multiStringColumnIsRegex_Internals">
-<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
-<entry key="EnabledStatus" type="xboolean" value="false"/>
-</config>
-<entry key="multiStringColumnIsRegex" type="xboolean" value="false"/>
-<config key="multiStringColumnSetMatching_Internals">
-<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
-<entry key="EnabledStatus" type="xboolean" value="false"/>
-</config>
-<entry key="multiStringColumnSetMatching" type="xstring" value="MATCHING"/>
 <config key="multiColumnNames">
 <entry key="filter-type" type="xstring" value="STANDARD"/>
 <config key="included_names">
@@ -187,6 +162,31 @@
 </config>
 </config>
 </config>
+<config key="multiStringColumnPatter_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="false"/>
+</config>
+<entry key="multiStringColumnPatter" type="xstring" isnull="true" value=""/>
+<config key="multiStringColumnHasWildcards_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="false"/>
+</config>
+<entry key="multiStringColumnHasWildcards" type="xboolean" value="false"/>
+<config key="multiStringColumnCaseSensitive_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="false"/>
+</config>
+<entry key="multiStringColumnCaseSensitive" type="xboolean" value="false"/>
+<config key="multiStringColumnIsRegex_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="false"/>
+</config>
+<entry key="multiStringColumnIsRegex" type="xboolean" value="false"/>
+<config key="multiStringColumnSetMatching_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="false"/>
+</config>
+<entry key="multiStringColumnSetMatching" type="xstring" value="MATCHING"/>
 <config key="singleNumericThreshold_Internals">
 <entry key="SettingsModelID" type="xstring" value="SMID_double"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -254,12 +254,12 @@
 <entry key="index" type="xint" value="1"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 311, Cols: 131"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 311, Cols: 127"/>
 <entry key="port_dir_location" type="xstring" value="port_1"/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="b7ce3540-620d-4bf9-afe2-f6546fe5bf11"/>
+<entry key="file_store_id" type="xstring" value="6ca0401a-02a9-4269-a766-714e934693df"/>
 </config>
 </config>

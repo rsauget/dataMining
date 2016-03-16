@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="spec.xml">
 <entry key="spec_name" type="xstring" value="default"/>
-<entry key="number_columns" type="xint" value="183"/>
+<entry key="number_columns" type="xint" value="179"/>
 <config key="column_spec_0">
 <entry key="column_name" type="xstring" value="Document"/>
 <config key="element_names">
@@ -326,702 +326,6 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_14">
-<entry key="column_name" type="xstring" value="couleur"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-</config>
-<config key="column_domain">
-<config key="lower_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="0.0"/>
-</config>
-</config>
-<config key="upper_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="1.0"/>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-</config>
-<config key="column_spec_15">
-<entry key="column_name" type="xstring" value="rhône"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-</config>
-<config key="column_domain">
-<config key="lower_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="0.0"/>
-</config>
-</config>
-<config key="upper_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="1.0"/>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-</config>
-<config key="column_spec_16">
-<entry key="column_name" type="xstring" value="rhônealp"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-</config>
-<config key="column_domain">
-<config key="lower_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="0.0"/>
-</config>
-</config>
-<config key="upper_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="1.0"/>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-</config>
-<config key="column_spec_17">
-<entry key="column_name" type="xstring" value="canoneos6d"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-</config>
-<config key="column_domain">
-<config key="lower_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="0.0"/>
-</config>
-</config>
-<config key="upper_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="1.0"/>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-</config>
-<config key="column_spec_18">
-<entry key="column_name" type="xstring" value="architectur"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-</config>
-<config key="column_domain">
-<config key="lower_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="0.0"/>
-</config>
-</config>
-<config key="upper_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="1.0"/>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-</config>
-<config key="column_spec_19">
-<entry key="column_name" type="xstring" value="noiretblanc"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-</config>
-<config key="column_domain">
-<config key="lower_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="0.0"/>
-</config>
-</config>
-<config key="upper_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="1.0"/>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-</config>
-<config key="column_spec_20">
-<entry key="column_name" type="xstring" value="basiliqu"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-</config>
-<config key="column_domain">
-<config key="lower_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="0.0"/>
-</config>
-</config>
-<config key="upper_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="1.0"/>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-</config>
-<config key="column_spec_21">
-<entry key="column_name" type="xstring" value="mur"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-</config>
-<config key="column_domain">
-<config key="lower_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="0.0"/>
-</config>
-</config>
-<config key="upper_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="1.0"/>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-</config>
-<config key="column_spec_22">
-<entry key="column_name" type="xstring" value="confluenc"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-</config>
-<config key="column_domain">
-<config key="lower_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="0.0"/>
-</config>
-</config>
-<config key="upper_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="1.0"/>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-</config>
-<config key="column_spec_23">
-<entry key="column_name" type="xstring" value="pont"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-</config>
-<config key="column_domain">
-<config key="lower_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="0.0"/>
-</config>
-</config>
-<config key="upper_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="1.0"/>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-</config>
-<config key="column_spec_24">
-<entry key="column_name" type="xstring" value="vill"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-</config>
-<config key="column_domain">
-<config key="lower_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="0.0"/>
-</config>
-</config>
-<config key="upper_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="1.0"/>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-</config>
-<config key="column_spec_25">
-<entry key="column_name" type="xstring" value="nikon"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-</config>
-<config key="column_domain">
-<config key="lower_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="0.0"/>
-</config>
-</config>
-<config key="upper_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="1.0"/>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-</config>
-<config key="column_spec_26">
-<entry key="column_name" type="xstring" value="francia"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-</config>
-<config key="column_domain">
-<config key="lower_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="0.0"/>
-</config>
-</config>
-<config key="upper_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="1.0"/>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-</config>
-<config key="column_spec_27">
-<entry key="column_name" type="xstring" value="lion"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-</config>
-<config key="column_domain">
-<config key="lower_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="0.0"/>
-</config>
-</config>
-<config key="upper_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="1.0"/>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-</config>
-<config key="column_spec_28">
-<entry key="column_name" type="xstring" value="35mm"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-</config>
-<config key="column_domain">
-<config key="lower_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="0.0"/>
-</config>
-</config>
-<config key="upper_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="1.0"/>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-</config>
-<config key="column_spec_29">
-<entry key="column_name" type="xstring" value="fourvièr"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-</config>
-<config key="column_domain">
-<config key="lower_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="0.0"/>
-</config>
-</config>
-<config key="upper_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="1.0"/>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-</config>
-<config key="column_spec_30">
-<entry key="column_name" type="xstring" value="vieuxlyon"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-</config>
-<config key="column_domain">
-<config key="lower_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="0.0"/>
-</config>
-</config>
-<config key="upper_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="1.0"/>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-</config>
-<config key="column_spec_31">
-<entry key="column_name" type="xstring" value="musé"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-</config>
-<config key="column_domain">
-<config key="lower_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="0.0"/>
-</config>
-</config>
-<config key="upper_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="1.0"/>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-</config>
-<config key="column_spec_32">
-<entry key="column_name" type="xstring" value="natur"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-</config>
-<config key="column_domain">
-<config key="lower_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="0.0"/>
-</config>
-</config>
-<config key="upper_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="1.0"/>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-</config>
-<config key="column_spec_33">
-<entry key="column_name" type="xstring" value="lumièr"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-</config>
-<config key="column_domain">
-<config key="lower_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="0.0"/>
-</config>
-</config>
-<config key="upper_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="1.0"/>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-</config>
-<config key="column_spec_34">
-<entry key="column_name" type="xstring" value="automn"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-</config>
-<config key="column_domain">
-<config key="lower_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="0.0"/>
-</config>
-</config>
-<config key="upper_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="1.0"/>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-</config>
-<config key="column_spec_35">
-<entry key="column_name" type="xstring" value="parcdelatêtedor"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-</config>
-<config key="column_domain">
-<config key="lower_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="0.0"/>
-</config>
-</config>
-<config key="upper_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="1.0"/>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-</config>
-<config key="column_spec_36">
-<entry key="column_name" type="xstring" value="parc"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-</config>
-<config key="column_domain">
-<config key="lower_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="0.0"/>
-</config>
-</config>
-<config key="upper_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="1.0"/>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-</config>
-<config key="column_spec_37">
-<entry key="column_name" type="xstring" value="macro"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-</config>
-<config key="column_domain">
-<config key="lower_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="0.0"/>
-</config>
-</config>
-<config key="upper_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="1.0"/>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-</config>
-<config key="column_spec_38">
-<entry key="column_name" type="xstring" value="girl"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-</config>
-<config key="column_domain">
-<config key="lower_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="0.0"/>
-</config>
-</config>
-<config key="upper_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="1.0"/>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-</config>
-<config key="column_spec_39">
-<entry key="column_name" type="xstring" value="peopl"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-</config>
-<config key="column_domain">
-<config key="lower_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="0.0"/>
-</config>
-</config>
-<config key="upper_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="1.0"/>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-</config>
-<config key="column_spec_40">
-<entry key="column_name" type="xstring" value="white"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-</config>
-<config key="column_domain">
-<config key="lower_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="0.0"/>
-</config>
-</config>
-<config key="upper_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="1.0"/>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-</config>
-<config key="column_spec_41">
-<entry key="column_name" type="xstring" value="black"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-</config>
-<config key="column_domain">
-<config key="lower_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="0.0"/>
-</config>
-</config>
-<config key="upper_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="1.0"/>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-</config>
-<config key="column_spec_42">
-<entry key="column_name" type="xstring" value="fêtedeslumièr"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-</config>
-<config key="column_domain">
-<config key="lower_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="0.0"/>
-</config>
-</config>
-<config key="upper_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="1.0"/>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-</config>
-<config key="column_spec_43">
 <entry key="column_name" type="xstring" value="upload"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -1045,8 +349,704 @@
 </config>
 <config key="column_properties"/>
 </config>
+<config key="column_spec_15">
+<entry key="column_name" type="xstring" value="byinstagram"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.0"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="1.0"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_16">
+<entry key="column_name" type="xstring" value="foursquar"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.0"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="1.0"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_17">
+<entry key="column_name" type="xstring" value="couleur"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.0"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="1.0"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_18">
+<entry key="column_name" type="xstring" value="rhône"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.0"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="1.0"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_19">
+<entry key="column_name" type="xstring" value="rhônealp"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.0"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="1.0"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_20">
+<entry key="column_name" type="xstring" value="canoneos6d"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.0"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="1.0"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_21">
+<entry key="column_name" type="xstring" value="architectur"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.0"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="1.0"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_22">
+<entry key="column_name" type="xstring" value="noiretblanc"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.0"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="1.0"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_23">
+<entry key="column_name" type="xstring" value="basiliqu"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.0"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="1.0"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_24">
+<entry key="column_name" type="xstring" value="mur"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.0"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="1.0"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_25">
+<entry key="column_name" type="xstring" value="confluenc"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.0"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="1.0"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_26">
+<entry key="column_name" type="xstring" value="pont"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.0"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="1.0"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_27">
+<entry key="column_name" type="xstring" value="vill"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.0"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="1.0"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_28">
+<entry key="column_name" type="xstring" value="nikon"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.0"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="1.0"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_29">
+<entry key="column_name" type="xstring" value="francia"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.0"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="1.0"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_30">
+<entry key="column_name" type="xstring" value="lion"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.0"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="1.0"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_31">
+<entry key="column_name" type="xstring" value="35mm"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.0"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="1.0"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_32">
+<entry key="column_name" type="xstring" value="fourvièr"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.0"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="1.0"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_33">
+<entry key="column_name" type="xstring" value="vieuxlyon"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.0"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="1.0"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_34">
+<entry key="column_name" type="xstring" value="musé"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.0"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="1.0"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_35">
+<entry key="column_name" type="xstring" value="natur"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.0"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="1.0"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_36">
+<entry key="column_name" type="xstring" value="lumièr"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.0"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="1.0"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_37">
+<entry key="column_name" type="xstring" value="automn"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.0"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="1.0"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_38">
+<entry key="column_name" type="xstring" value="parcdelatêtedor"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.0"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="1.0"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_39">
+<entry key="column_name" type="xstring" value="parc"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.0"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="1.0"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_40">
+<entry key="column_name" type="xstring" value="macro"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.0"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="1.0"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_41">
+<entry key="column_name" type="xstring" value="girl"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.0"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="1.0"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_42">
+<entry key="column_name" type="xstring" value="peopl"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.0"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="1.0"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_43">
+<entry key="column_name" type="xstring" value="white"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.0"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="1.0"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
 <config key="column_spec_44">
-<entry key="column_name" type="xstring" value="byflickrmobil"/>
+<entry key="column_name" type="xstring" value="black"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -1070,7 +1070,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_45">
-<entry key="column_name" type="xstring" value="flickriosapp"/>
+<entry key="column_name" type="xstring" value="fêtedeslumièr"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -1094,7 +1094,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_46">
-<entry key="column_name" type="xstring" value="streetart"/>
+<entry key="column_name" type="xstring" value="byflickrmobil"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -1118,7 +1118,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_47">
-<entry key="column_name" type="xstring" value="pasteup"/>
+<entry key="column_name" type="xstring" value="flickriosapp"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -1142,7 +1142,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_48">
-<entry key="column_name" type="xstring" value="collag"/>
+<entry key="column_name" type="xstring" value="streetart"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -1166,7 +1166,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_49">
-<entry key="column_name" type="xstring" value="paper"/>
+<entry key="column_name" type="xstring" value="pasteup"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -1190,7 +1190,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_50">
-<entry key="column_name" type="xstring" value="europ"/>
+<entry key="column_name" type="xstring" value="collag"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -1214,7 +1214,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_51">
-<entry key="column_name" type="xstring" value="wheatpast"/>
+<entry key="column_name" type="xstring" value="paper"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -1238,7 +1238,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_52">
-<entry key="column_name" type="xstring" value="past"/>
+<entry key="column_name" type="xstring" value="europ"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -1262,7 +1262,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_53">
-<entry key="column_name" type="xstring" value="wheatpap"/>
+<entry key="column_name" type="xstring" value="wheatpast"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -1286,7 +1286,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_54">
-<entry key="column_name" type="xstring" value="blackwhit"/>
+<entry key="column_name" type="xstring" value="past"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -1310,7 +1310,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_55">
-<entry key="column_name" type="xstring" value="blackandwhit"/>
+<entry key="column_name" type="xstring" value="wheatpap"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -1334,7 +1334,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_56">
-<entry key="column_name" type="xstring" value="river"/>
+<entry key="column_name" type="xstring" value="blackwhit"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -1358,7 +1358,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_57">
-<entry key="column_name" type="xstring" value="saôn"/>
+<entry key="column_name" type="xstring" value="blackandwhit"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -1382,7 +1382,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_58">
-<entry key="column_name" type="xstring" value="nuit"/>
+<entry key="column_name" type="xstring" value="river"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -1406,7 +1406,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_59">
-<entry key="column_name" type="xstring" value="squareformat"/>
+<entry key="column_name" type="xstring" value="saôn"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -1430,7 +1430,7 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_60">
-<entry key="column_name" type="xstring" value="squar"/>
+<entry key="column_name" type="xstring" value="nuit"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -2246,78 +2246,6 @@
 <config key="column_properties"/>
 </config>
 <config key="column_spec_94">
-<entry key="column_name" type="xstring" value="iphoneographi"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-</config>
-<config key="column_domain">
-<config key="lower_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="0.0"/>
-</config>
-</config>
-<config key="upper_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="1.0"/>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-</config>
-<config key="column_spec_95">
-<entry key="column_name" type="xstring" value="instagramapp"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-</config>
-<config key="column_domain">
-<config key="lower_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="0.0"/>
-</config>
-</config>
-<config key="upper_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="1.0"/>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-</config>
-<config key="column_spec_96">
-<entry key="column_name" type="xstring" value="byinstagram"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-</config>
-<config key="column_domain">
-<config key="lower_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="0.0"/>
-</config>
-</config>
-<config key="upper_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="1.0"/>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-</config>
-<config key="column_spec_97">
 <entry key="column_name" type="xstring" value="lumix"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -2341,7 +2269,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_98">
+<config key="column_spec_95">
 <entry key="column_name" type="xstring" value="lyo15"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -2365,7 +2293,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_99">
+<config key="column_spec_96">
 <entry key="column_name" type="xstring" value="charlemagn"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -2389,7 +2317,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_100">
+<config key="column_spec_97">
 <entry key="column_name" type="xstring" value="francja"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -2413,7 +2341,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_101">
+<config key="column_spec_98">
 <entry key="column_name" type="xstring" value="librari"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -2437,7 +2365,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_102">
+<config key="column_spec_99">
 <entry key="column_name" type="xstring" value="ifla"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -2461,7 +2389,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_103">
+<config key="column_spec_100">
 <entry key="column_name" type="xstring" value="wlic"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -2485,7 +2413,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_104">
+<config key="column_spec_101">
 <entry key="column_name" type="xstring" value="eblida"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -2509,7 +2437,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_105">
+<config key="column_spec_102">
 <entry key="column_name" type="xstring" value="d800"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -2533,7 +2461,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_106">
+<config key="column_spec_103">
 <entry key="column_name" type="xstring" value="feu"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -2557,31 +2485,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_107">
-<entry key="column_name" type="xstring" value="foursquar"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-</config>
-<config key="column_domain">
-<config key="lower_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="0.0"/>
-</config>
-</config>
-<config key="upper_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="1.0"/>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-</config>
-<config key="column_spec_108">
+<config key="column_spec_104">
 <entry key="column_name" type="xstring" value="hockey"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -2605,7 +2509,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_109">
+<config key="column_spec_105">
 <entry key="column_name" type="xstring" value="lhc"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -2629,7 +2533,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_110">
+<config key="column_spec_106">
 <entry key="column_name" type="xstring" value="leica"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -2653,7 +2557,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_111">
+<config key="column_spec_107">
 <entry key="column_name" type="xstring" value="summicron"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -2677,7 +2581,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_112">
+<config key="column_spec_108">
 <entry key="column_name" type="xstring" value="leitz"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -2701,7 +2605,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_113">
+<config key="column_spec_109">
 <entry key="column_name" type="xstring" value="summicronr"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -2725,7 +2629,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_114">
+<config key="column_spec_110">
 <entry key="column_name" type="xstring" value="summicronr35mmf2"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -2749,7 +2653,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_115">
+<config key="column_spec_111">
 <entry key="column_name" type="xstring" value="leitax"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -2773,7 +2677,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_116">
+<config key="column_spec_112">
 <entry key="column_name" type="xstring" value="l35d800"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -2797,7 +2701,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_117">
+<config key="column_spec_113">
 <entry key="column_name" type="xstring" value="street"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -2821,7 +2725,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_118">
+<config key="column_spec_114">
 <entry key="column_name" type="xstring" value="boottocht"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -2845,7 +2749,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_119">
+<config key="column_spec_115">
 <entry key="column_name" type="xstring" value="artific"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -2869,7 +2773,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_120">
+<config key="column_spec_116">
 <entry key="column_name" type="xstring" value="spectacl"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -2893,7 +2797,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_121">
+<config key="column_spec_117">
 <entry key="column_name" type="xstring" value="filternofilt"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -2917,31 +2821,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_122">
-<entry key="column_name" type="xstring" value="xproii"/>
-<config key="element_names">
-<entry key="array-size" type="xint" value="0"/>
-</config>
-<config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-</config>
-<config key="column_domain">
-<config key="lower_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="0.0"/>
-</config>
-</config>
-<config key="upper_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
-<config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="1.0"/>
-</config>
-</config>
-</config>
-<config key="column_properties"/>
-</config>
-<config key="column_spec_123">
+<config key="column_spec_118">
 <entry key="column_name" type="xstring" value="rise"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -2965,7 +2845,31 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_124">
+<config key="column_spec_119">
+<entry key="column_name" type="xstring" value="xproii"/>
+<config key="element_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="column_type">
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+</config>
+<config key="column_domain">
+<config key="lower_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="0.0"/>
+</config>
+</config>
+<config key="upper_bound">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
+<config key="org.knime.core.data.def.DoubleCell">
+<entry key="DoubleCell" type="xdouble" value="1.0"/>
+</config>
+</config>
+</config>
+<config key="column_properties"/>
+</config>
+<config key="column_spec_120">
 <entry key="column_name" type="xstring" value="Document class"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -2976,7 +2880,7 @@
 <config key="column_domain"/>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_125">
+<config key="column_spec_121">
 <entry key="column_name" type="xstring" value="user"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -5919,7 +5823,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_126">
+<config key="column_spec_122">
 <entry key="column_name" type="xstring" value="lat"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -5943,7 +5847,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_127">
+<config key="column_spec_123">
 <entry key="column_name" type="xstring" value="long"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -5967,7 +5871,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_128">
+<config key="column_spec_124">
 <entry key="column_name" type="xstring" value="tags"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -5978,7 +5882,7 @@
 <config key="column_domain"/>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_129">
+<config key="column_spec_125">
 <entry key="column_name" type="xstring" value="Cluster"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -6676,7 +6580,7 @@
 </config>
 </config>
 </config>
-<config key="column_spec_130">
+<config key="column_spec_126">
 <entry key="column_name" type="xstring" value="Noise_presquile"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -6715,7 +6619,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_131">
+<config key="column_spec_127">
 <entry key="column_name" type="xstring" value="Cluster_15_presquile"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -6754,7 +6658,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_132">
+<config key="column_spec_128">
 <entry key="column_name" type="xstring" value="Cluster_12_presquile"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -6793,7 +6697,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_133">
+<config key="column_spec_129">
 <entry key="column_name" type="xstring" value="Cluster_22_presquile"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -6832,7 +6736,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_134">
+<config key="column_spec_130">
 <entry key="column_name" type="xstring" value="Cluster_3_presquile"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -6871,7 +6775,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_135">
+<config key="column_spec_131">
 <entry key="column_name" type="xstring" value="Cluster_17_presquile"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -6910,7 +6814,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_136">
+<config key="column_spec_132">
 <entry key="column_name" type="xstring" value="Cluster_13_presquile"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -6949,7 +6853,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_137">
+<config key="column_spec_133">
 <entry key="column_name" type="xstring" value="Cluster_7_presquile"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -6988,7 +6892,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_138">
+<config key="column_spec_134">
 <entry key="column_name" type="xstring" value="Cluster_14_presquile"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -7027,7 +6931,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_139">
+<config key="column_spec_135">
 <entry key="column_name" type="xstring" value="Cluster_11_presquile"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -7066,7 +6970,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_140">
+<config key="column_spec_136">
 <entry key="column_name" type="xstring" value="Cluster_23_presquile"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -7105,7 +7009,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_141">
+<config key="column_spec_137">
 <entry key="column_name" type="xstring" value="Cluster_21_presquile"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -7144,7 +7048,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_142">
+<config key="column_spec_138">
 <entry key="column_name" type="xstring" value="Cluster_0_presquile"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -7183,7 +7087,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_143">
+<config key="column_spec_139">
 <entry key="column_name" type="xstring" value="Cluster_8_presquile"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -7222,7 +7126,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_144">
+<config key="column_spec_140">
 <entry key="column_name" type="xstring" value="Cluster_19_presquile"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -7261,7 +7165,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_145">
+<config key="column_spec_141">
 <entry key="column_name" type="xstring" value="Cluster_9_presquile"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -7300,7 +7204,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_146">
+<config key="column_spec_142">
 <entry key="column_name" type="xstring" value="Cluster_20_presquile"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -7339,7 +7243,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_147">
+<config key="column_spec_143">
 <entry key="column_name" type="xstring" value="Cluster_16_presquile"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -7378,7 +7282,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_148">
+<config key="column_spec_144">
 <entry key="column_name" type="xstring" value="Cluster_2_presquile"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -7417,7 +7321,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_149">
+<config key="column_spec_145">
 <entry key="column_name" type="xstring" value="Cluster_5_presquile"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -7456,7 +7360,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_150">
+<config key="column_spec_146">
 <entry key="column_name" type="xstring" value="Cluster_10_presquile"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -7495,7 +7399,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_151">
+<config key="column_spec_147">
 <entry key="column_name" type="xstring" value="Cluster_6_presquile"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -7534,7 +7438,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_152">
+<config key="column_spec_148">
 <entry key="column_name" type="xstring" value="Cluster_1_presquile"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -7573,7 +7477,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_153">
+<config key="column_spec_149">
 <entry key="column_name" type="xstring" value="Cluster_4_presquile"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -7612,7 +7516,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_154">
+<config key="column_spec_150">
 <entry key="column_name" type="xstring" value="Cluster_18_presquile"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -7651,7 +7555,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_155">
+<config key="column_spec_151">
 <entry key="column_name" type="xstring" value="Cluster_25"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -7690,7 +7594,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_156">
+<config key="column_spec_152">
 <entry key="column_name" type="xstring" value="Noise"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -7729,7 +7633,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_157">
+<config key="column_spec_153">
 <entry key="column_name" type="xstring" value="Cluster_22"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -7768,7 +7672,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_158">
+<config key="column_spec_154">
 <entry key="column_name" type="xstring" value="Cluster_5"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -7807,7 +7711,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_159">
+<config key="column_spec_155">
 <entry key="column_name" type="xstring" value="Cluster_2"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -7846,7 +7750,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_160">
+<config key="column_spec_156">
 <entry key="column_name" type="xstring" value="Cluster_8"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -7885,7 +7789,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_161">
+<config key="column_spec_157">
 <entry key="column_name" type="xstring" value="Cluster_18"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -7924,7 +7828,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_162">
+<config key="column_spec_158">
 <entry key="column_name" type="xstring" value="Cluster_1"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -7963,7 +7867,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_163">
+<config key="column_spec_159">
 <entry key="column_name" type="xstring" value="Cluster_17"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -8002,7 +7906,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_164">
+<config key="column_spec_160">
 <entry key="column_name" type="xstring" value="Cluster_23"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -8041,7 +7945,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_165">
+<config key="column_spec_161">
 <entry key="column_name" type="xstring" value="Cluster_0"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -8080,7 +7984,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_166">
+<config key="column_spec_162">
 <entry key="column_name" type="xstring" value="Cluster_24"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -8119,7 +8023,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_167">
+<config key="column_spec_163">
 <entry key="column_name" type="xstring" value="Cluster_11"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -8158,7 +8062,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_168">
+<config key="column_spec_164">
 <entry key="column_name" type="xstring" value="Cluster_14"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -8197,7 +8101,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_169">
+<config key="column_spec_165">
 <entry key="column_name" type="xstring" value="Cluster_4"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -8236,7 +8140,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_170">
+<config key="column_spec_166">
 <entry key="column_name" type="xstring" value="Cluster_10"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -8275,7 +8179,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_171">
+<config key="column_spec_167">
 <entry key="column_name" type="xstring" value="Cluster_20"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -8314,7 +8218,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_172">
+<config key="column_spec_168">
 <entry key="column_name" type="xstring" value="Cluster_9"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -8353,7 +8257,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_173">
+<config key="column_spec_169">
 <entry key="column_name" type="xstring" value="Cluster_19"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -8392,7 +8296,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_174">
+<config key="column_spec_170">
 <entry key="column_name" type="xstring" value="Cluster_13"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -8431,7 +8335,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_175">
+<config key="column_spec_171">
 <entry key="column_name" type="xstring" value="Cluster_15"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -8470,7 +8374,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_176">
+<config key="column_spec_172">
 <entry key="column_name" type="xstring" value="Cluster_16"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -8509,7 +8413,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_177">
+<config key="column_spec_173">
 <entry key="column_name" type="xstring" value="Cluster_21"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -8548,7 +8452,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_178">
+<config key="column_spec_174">
 <entry key="column_name" type="xstring" value="Cluster_6"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -8587,7 +8491,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_179">
+<config key="column_spec_175">
 <entry key="column_name" type="xstring" value="Cluster_12"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -8626,7 +8530,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_180">
+<config key="column_spec_176">
 <entry key="column_name" type="xstring" value="Cluster_3"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -8665,7 +8569,7 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_181">
+<config key="column_spec_177">
 <entry key="column_name" type="xstring" value="Cluster_7"/>
 <config key="element_names">
 <entry key="array-size" type="xint" value="0"/>
@@ -8704,185 +8608,157 @@
 </config>
 <config key="column_properties"/>
 </config>
-<config key="column_spec_182">
+<config key="column_spec_178">
 <entry key="column_name" type="xstring" value="BitVector"/>
 <config key="element_names">
-<entry key="array-size" type="xint" value="175"/>
-<entry key="0" type="xstring" value="lyon"/>
-<entry key="1" type="xstring" value="franc"/>
-<entry key="2" type="xstring" value="canon"/>
-<entry key="3" type="xstring" value="eo"/>
-<entry key="4" type="xstring" value="fourvier"/>
-<entry key="5" type="xstring" value="rhone"/>
-<entry key="6" type="xstring" value="croixrouss"/>
-<entry key="7" type="xstring" value="rhonealp"/>
-<entry key="8" type="xstring" value="graffiti"/>
-<entry key="9" type="xstring" value="fresqu"/>
-<entry key="10" type="xstring" value="saon"/>
-<entry key="11" type="xstring" value="rue"/>
-<entry key="12" type="xstring" value="rouss"/>
-<entry key="13" type="xstring" value="couleur"/>
-<entry key="14" type="xstring" value="rhône"/>
-<entry key="15" type="xstring" value="rhônealp"/>
-<entry key="16" type="xstring" value="canoneos6d"/>
-<entry key="17" type="xstring" value="architectur"/>
-<entry key="18" type="xstring" value="noiretblanc"/>
-<entry key="19" type="xstring" value="basiliqu"/>
-<entry key="20" type="xstring" value="mur"/>
-<entry key="21" type="xstring" value="confluenc"/>
-<entry key="22" type="xstring" value="pont"/>
-<entry key="23" type="xstring" value="vill"/>
-<entry key="24" type="xstring" value="nikon"/>
-<entry key="25" type="xstring" value="francia"/>
-<entry key="26" type="xstring" value="lion"/>
-<entry key="27" type="xstring" value="35mm"/>
-<entry key="28" type="xstring" value="fourvièr"/>
-<entry key="29" type="xstring" value="vieuxlyon"/>
-<entry key="30" type="xstring" value="musé"/>
-<entry key="31" type="xstring" value="natur"/>
-<entry key="32" type="xstring" value="lumièr"/>
-<entry key="33" type="xstring" value="automn"/>
-<entry key="34" type="xstring" value="parcdelatêtedor"/>
-<entry key="35" type="xstring" value="parc"/>
-<entry key="36" type="xstring" value="macro"/>
-<entry key="37" type="xstring" value="girl"/>
-<entry key="38" type="xstring" value="peopl"/>
-<entry key="39" type="xstring" value="white"/>
-<entry key="40" type="xstring" value="black"/>
-<entry key="41" type="xstring" value="fêtedeslumièr"/>
-<entry key="42" type="xstring" value="upload"/>
-<entry key="43" type="xstring" value="byflickrmobil"/>
-<entry key="44" type="xstring" value="flickriosapp"/>
-<entry key="45" type="xstring" value="streetart"/>
-<entry key="46" type="xstring" value="pasteup"/>
-<entry key="47" type="xstring" value="collag"/>
-<entry key="48" type="xstring" value="paper"/>
-<entry key="49" type="xstring" value="europ"/>
-<entry key="50" type="xstring" value="wheatpast"/>
-<entry key="51" type="xstring" value="past"/>
-<entry key="52" type="xstring" value="wheatpap"/>
-<entry key="53" type="xstring" value="blackwhit"/>
-<entry key="54" type="xstring" value="blackandwhit"/>
-<entry key="55" type="xstring" value="river"/>
-<entry key="56" type="xstring" value="saôn"/>
-<entry key="57" type="xstring" value="nuit"/>
-<entry key="58" type="xstring" value="squareformat"/>
-<entry key="59" type="xstring" value="squar"/>
-<entry key="60" type="xstring" value="fleuv"/>
-<entry key="61" type="xstring" value="church"/>
-<entry key="62" type="xstring" value="sculptur"/>
-<entry key="63" type="xstring" value="night"/>
-<entry key="64" type="xstring" value="wall"/>
-<entry key="65" type="xstring" value="bridg"/>
-<entry key="66" type="xstring" value="guillotièr"/>
-<entry key="67" type="xstring" value="urban"/>
-<entry key="68" type="xstring" value="winter"/>
-<entry key="69" type="xstring" value="sunnyday"/>
-<entry key="70" type="xstring" value="d3200"/>
-<entry key="71" type="xstring" value="bellecour"/>
-<entry key="72" type="xstring" value="croix"/>
-<entry key="73" type="xstring" value="citi"/>
-<entry key="74" type="xstring" value="oldtown"/>
-<entry key="75" type="xstring" value="terreaux"/>
-<entry key="76" type="xstring" value="saint"/>
-<entry key="77" type="xstring" value="vieux"/>
-<entry key="78" type="xstring" value="theatr"/>
-<entry key="79" type="xstring" value="mural"/>
-<entry key="80" type="xstring" value="frankreich"/>
-<entry key="81" type="xstring" value="kirch"/>
-<entry key="82" type="xstring" value="архитектура"/>
-<entry key="83" type="xstring" value="франция"/>
-<entry key="84" type="xstring" value="лион"/>
-<entry key="85" type="xstring" value="oldhous"/>
-<entry key="86" type="xstring" value="earlysundaymorn"/>
-<entry key="87" type="xstring" value="jacquesmeynierdemalviala"/>
-<entry key="88" type="xstring" value="tôtundimanchematin"/>
-<entry key="89" type="xstring" value="panason"/>
-<entry key="90" type="xstring" value="traboul"/>
-<entry key="91" type="xstring" value="fetedeslumier"/>
-<entry key="92" type="xstring" value="manifest"/>
-<entry key="93" type="xstring" value="iphoneographi"/>
-<entry key="94" type="xstring" value="instagramapp"/>
-<entry key="95" type="xstring" value="byinstagram"/>
-<entry key="96" type="xstring" value="lumix"/>
-<entry key="97" type="xstring" value="lyo15"/>
-<entry key="98" type="xstring" value="charlemagn"/>
-<entry key="99" type="xstring" value="francja"/>
-<entry key="100" type="xstring" value="librari"/>
-<entry key="101" type="xstring" value="ifla"/>
-<entry key="102" type="xstring" value="wlic"/>
-<entry key="103" type="xstring" value="eblida"/>
-<entry key="104" type="xstring" value="d800"/>
-<entry key="105" type="xstring" value="feu"/>
-<entry key="106" type="xstring" value="foursquar"/>
-<entry key="107" type="xstring" value="hockey"/>
-<entry key="108" type="xstring" value="lhc"/>
-<entry key="109" type="xstring" value="leica"/>
-<entry key="110" type="xstring" value="summicron"/>
-<entry key="111" type="xstring" value="leitz"/>
-<entry key="112" type="xstring" value="summicronr"/>
-<entry key="113" type="xstring" value="summicronr35mmf2"/>
-<entry key="114" type="xstring" value="leitax"/>
-<entry key="115" type="xstring" value="l35d800"/>
-<entry key="116" type="xstring" value="street"/>
-<entry key="117" type="xstring" value="boottocht"/>
-<entry key="118" type="xstring" value="artific"/>
-<entry key="119" type="xstring" value="spectacl"/>
-<entry key="120" type="xstring" value="filternofilt"/>
-<entry key="121" type="xstring" value="xproii"/>
-<entry key="122" type="xstring" value="rise"/>
-<entry key="123" type="xstring" value="Noise_presquile"/>
-<entry key="124" type="xstring" value="Cluster_15_presquile"/>
-<entry key="125" type="xstring" value="Cluster_12_presquile"/>
-<entry key="126" type="xstring" value="Cluster_22_presquile"/>
-<entry key="127" type="xstring" value="Cluster_3_presquile"/>
-<entry key="128" type="xstring" value="Cluster_17_presquile"/>
-<entry key="129" type="xstring" value="Cluster_13_presquile"/>
-<entry key="130" type="xstring" value="Cluster_7_presquile"/>
-<entry key="131" type="xstring" value="Cluster_14_presquile"/>
-<entry key="132" type="xstring" value="Cluster_11_presquile"/>
-<entry key="133" type="xstring" value="Cluster_23_presquile"/>
-<entry key="134" type="xstring" value="Cluster_21_presquile"/>
-<entry key="135" type="xstring" value="Cluster_0_presquile"/>
-<entry key="136" type="xstring" value="Cluster_8_presquile"/>
-<entry key="137" type="xstring" value="Cluster_19_presquile"/>
-<entry key="138" type="xstring" value="Cluster_9_presquile"/>
-<entry key="139" type="xstring" value="Cluster_20_presquile"/>
-<entry key="140" type="xstring" value="Cluster_16_presquile"/>
-<entry key="141" type="xstring" value="Cluster_2_presquile"/>
-<entry key="142" type="xstring" value="Cluster_5_presquile"/>
-<entry key="143" type="xstring" value="Cluster_10_presquile"/>
-<entry key="144" type="xstring" value="Cluster_6_presquile"/>
-<entry key="145" type="xstring" value="Cluster_1_presquile"/>
-<entry key="146" type="xstring" value="Cluster_4_presquile"/>
-<entry key="147" type="xstring" value="Cluster_18_presquile"/>
-<entry key="148" type="xstring" value="Cluster_25"/>
-<entry key="149" type="xstring" value="Noise"/>
-<entry key="150" type="xstring" value="Cluster_22"/>
-<entry key="151" type="xstring" value="Cluster_5"/>
-<entry key="152" type="xstring" value="Cluster_2"/>
-<entry key="153" type="xstring" value="Cluster_8"/>
-<entry key="154" type="xstring" value="Cluster_18"/>
-<entry key="155" type="xstring" value="Cluster_1"/>
-<entry key="156" type="xstring" value="Cluster_17"/>
-<entry key="157" type="xstring" value="Cluster_23"/>
-<entry key="158" type="xstring" value="Cluster_0"/>
-<entry key="159" type="xstring" value="Cluster_24"/>
-<entry key="160" type="xstring" value="Cluster_11"/>
-<entry key="161" type="xstring" value="Cluster_14"/>
-<entry key="162" type="xstring" value="Cluster_4"/>
-<entry key="163" type="xstring" value="Cluster_10"/>
-<entry key="164" type="xstring" value="Cluster_20"/>
-<entry key="165" type="xstring" value="Cluster_9"/>
-<entry key="166" type="xstring" value="Cluster_19"/>
-<entry key="167" type="xstring" value="Cluster_13"/>
-<entry key="168" type="xstring" value="Cluster_15"/>
-<entry key="169" type="xstring" value="Cluster_16"/>
-<entry key="170" type="xstring" value="Cluster_21"/>
-<entry key="171" type="xstring" value="Cluster_6"/>
-<entry key="172" type="xstring" value="Cluster_12"/>
-<entry key="173" type="xstring" value="Cluster_3"/>
-<entry key="174" type="xstring" value="Cluster_7"/>
+<entry key="array-size" type="xint" value="147"/>
+<entry key="0" type="xstring" value="fourvier"/>
+<entry key="1" type="xstring" value="rhone"/>
+<entry key="2" type="xstring" value="croixrouss"/>
+<entry key="3" type="xstring" value="graffiti"/>
+<entry key="4" type="xstring" value="fresqu"/>
+<entry key="5" type="xstring" value="saon"/>
+<entry key="6" type="xstring" value="rue"/>
+<entry key="7" type="xstring" value="rouss"/>
+<entry key="8" type="xstring" value="couleur"/>
+<entry key="9" type="xstring" value="rhône"/>
+<entry key="10" type="xstring" value="architectur"/>
+<entry key="11" type="xstring" value="noiretblanc"/>
+<entry key="12" type="xstring" value="basiliqu"/>
+<entry key="13" type="xstring" value="mur"/>
+<entry key="14" type="xstring" value="confluenc"/>
+<entry key="15" type="xstring" value="pont"/>
+<entry key="16" type="xstring" value="vill"/>
+<entry key="17" type="xstring" value="lion"/>
+<entry key="18" type="xstring" value="fourvièr"/>
+<entry key="19" type="xstring" value="vieuxlyon"/>
+<entry key="20" type="xstring" value="musé"/>
+<entry key="21" type="xstring" value="natur"/>
+<entry key="22" type="xstring" value="lumièr"/>
+<entry key="23" type="xstring" value="automn"/>
+<entry key="24" type="xstring" value="parcdelatêtedor"/>
+<entry key="25" type="xstring" value="parc"/>
+<entry key="26" type="xstring" value="girl"/>
+<entry key="27" type="xstring" value="peopl"/>
+<entry key="28" type="xstring" value="white"/>
+<entry key="29" type="xstring" value="black"/>
+<entry key="30" type="xstring" value="fêtedeslumièr"/>
+<entry key="31" type="xstring" value="streetart"/>
+<entry key="32" type="xstring" value="pasteup"/>
+<entry key="33" type="xstring" value="collag"/>
+<entry key="34" type="xstring" value="paper"/>
+<entry key="35" type="xstring" value="europ"/>
+<entry key="36" type="xstring" value="wheatpast"/>
+<entry key="37" type="xstring" value="past"/>
+<entry key="38" type="xstring" value="wheatpap"/>
+<entry key="39" type="xstring" value="blackwhit"/>
+<entry key="40" type="xstring" value="blackandwhit"/>
+<entry key="41" type="xstring" value="river"/>
+<entry key="42" type="xstring" value="saôn"/>
+<entry key="43" type="xstring" value="nuit"/>
+<entry key="44" type="xstring" value="fleuv"/>
+<entry key="45" type="xstring" value="church"/>
+<entry key="46" type="xstring" value="sculptur"/>
+<entry key="47" type="xstring" value="night"/>
+<entry key="48" type="xstring" value="wall"/>
+<entry key="49" type="xstring" value="bridg"/>
+<entry key="50" type="xstring" value="guillotièr"/>
+<entry key="51" type="xstring" value="urban"/>
+<entry key="52" type="xstring" value="winter"/>
+<entry key="53" type="xstring" value="sunnyday"/>
+<entry key="54" type="xstring" value="bellecour"/>
+<entry key="55" type="xstring" value="croix"/>
+<entry key="56" type="xstring" value="citi"/>
+<entry key="57" type="xstring" value="oldtown"/>
+<entry key="58" type="xstring" value="terreaux"/>
+<entry key="59" type="xstring" value="saint"/>
+<entry key="60" type="xstring" value="vieux"/>
+<entry key="61" type="xstring" value="theatr"/>
+<entry key="62" type="xstring" value="mural"/>
+<entry key="63" type="xstring" value="kirch"/>
+<entry key="64" type="xstring" value="архитектура"/>
+<entry key="65" type="xstring" value="франция"/>
+<entry key="66" type="xstring" value="лион"/>
+<entry key="67" type="xstring" value="oldhous"/>
+<entry key="68" type="xstring" value="earlysundaymorn"/>
+<entry key="69" type="xstring" value="jacquesmeynierdemalviala"/>
+<entry key="70" type="xstring" value="tôtundimanchematin"/>
+<entry key="71" type="xstring" value="traboul"/>
+<entry key="72" type="xstring" value="fetedeslumier"/>
+<entry key="73" type="xstring" value="manifest"/>
+<entry key="74" type="xstring" value="lumix"/>
+<entry key="75" type="xstring" value="lyo15"/>
+<entry key="76" type="xstring" value="charlemagn"/>
+<entry key="77" type="xstring" value="librari"/>
+<entry key="78" type="xstring" value="ifla"/>
+<entry key="79" type="xstring" value="wlic"/>
+<entry key="80" type="xstring" value="eblida"/>
+<entry key="81" type="xstring" value="feu"/>
+<entry key="82" type="xstring" value="hockey"/>
+<entry key="83" type="xstring" value="lhc"/>
+<entry key="84" type="xstring" value="summicron"/>
+<entry key="85" type="xstring" value="leitz"/>
+<entry key="86" type="xstring" value="summicronr"/>
+<entry key="87" type="xstring" value="leitax"/>
+<entry key="88" type="xstring" value="street"/>
+<entry key="89" type="xstring" value="boottocht"/>
+<entry key="90" type="xstring" value="artific"/>
+<entry key="91" type="xstring" value="spectacl"/>
+<entry key="92" type="xstring" value="filternofilt"/>
+<entry key="93" type="xstring" value="rise"/>
+<entry key="94" type="xstring" value="xproii"/>
+<entry key="95" type="xstring" value="Noise_presquile"/>
+<entry key="96" type="xstring" value="Cluster_15_presquile"/>
+<entry key="97" type="xstring" value="Cluster_12_presquile"/>
+<entry key="98" type="xstring" value="Cluster_22_presquile"/>
+<entry key="99" type="xstring" value="Cluster_3_presquile"/>
+<entry key="100" type="xstring" value="Cluster_17_presquile"/>
+<entry key="101" type="xstring" value="Cluster_13_presquile"/>
+<entry key="102" type="xstring" value="Cluster_7_presquile"/>
+<entry key="103" type="xstring" value="Cluster_14_presquile"/>
+<entry key="104" type="xstring" value="Cluster_11_presquile"/>
+<entry key="105" type="xstring" value="Cluster_23_presquile"/>
+<entry key="106" type="xstring" value="Cluster_21_presquile"/>
+<entry key="107" type="xstring" value="Cluster_0_presquile"/>
+<entry key="108" type="xstring" value="Cluster_8_presquile"/>
+<entry key="109" type="xstring" value="Cluster_19_presquile"/>
+<entry key="110" type="xstring" value="Cluster_9_presquile"/>
+<entry key="111" type="xstring" value="Cluster_20_presquile"/>
+<entry key="112" type="xstring" value="Cluster_16_presquile"/>
+<entry key="113" type="xstring" value="Cluster_2_presquile"/>
+<entry key="114" type="xstring" value="Cluster_5_presquile"/>
+<entry key="115" type="xstring" value="Cluster_10_presquile"/>
+<entry key="116" type="xstring" value="Cluster_6_presquile"/>
+<entry key="117" type="xstring" value="Cluster_1_presquile"/>
+<entry key="118" type="xstring" value="Cluster_4_presquile"/>
+<entry key="119" type="xstring" value="Cluster_18_presquile"/>
+<entry key="120" type="xstring" value="Cluster_25"/>
+<entry key="121" type="xstring" value="Noise"/>
+<entry key="122" type="xstring" value="Cluster_22"/>
+<entry key="123" type="xstring" value="Cluster_5"/>
+<entry key="124" type="xstring" value="Cluster_2"/>
+<entry key="125" type="xstring" value="Cluster_8"/>
+<entry key="126" type="xstring" value="Cluster_18"/>
+<entry key="127" type="xstring" value="Cluster_1"/>
+<entry key="128" type="xstring" value="Cluster_17"/>
+<entry key="129" type="xstring" value="Cluster_23"/>
+<entry key="130" type="xstring" value="Cluster_0"/>
+<entry key="131" type="xstring" value="Cluster_24"/>
+<entry key="132" type="xstring" value="Cluster_11"/>
+<entry key="133" type="xstring" value="Cluster_14"/>
+<entry key="134" type="xstring" value="Cluster_4"/>
+<entry key="135" type="xstring" value="Cluster_10"/>
+<entry key="136" type="xstring" value="Cluster_20"/>
+<entry key="137" type="xstring" value="Cluster_9"/>
+<entry key="138" type="xstring" value="Cluster_19"/>
+<entry key="139" type="xstring" value="Cluster_13"/>
+<entry key="140" type="xstring" value="Cluster_15"/>
+<entry key="141" type="xstring" value="Cluster_16"/>
+<entry key="142" type="xstring" value="Cluster_21"/>
+<entry key="143" type="xstring" value="Cluster_6"/>
+<entry key="144" type="xstring" value="Cluster_12"/>
+<entry key="145" type="xstring" value="Cluster_3"/>
+<entry key="146" type="xstring" value="Cluster_7"/>
 </config>
 <config key="column_type">
 <entry key="cell_class" type="xstring" value="org.knime.core.data.vector.bitvector.DenseBitVectorCell"/>

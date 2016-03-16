@@ -78,7 +78,7 @@
 <config key="styles"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
-<entry key="state" type="xstring" value="IDLE"/>
+<entry key="state" type="xstring" value="EXECUTED"/>
 <entry key="factory" type="xstring" value="org.knime.ext.osm.node.mapview.OsmMapViewNodeFactory"/>
 <entry key="node-name" type="xstring" value="OSM Map View"/>
 <entry key="node-bundle-name" type="xstring" value="KNIME Open Street Map Views Integration"/>
@@ -91,11 +91,11 @@
 <entry key="node-feature-version" type="xstring" value="3.1.0.v201511131603"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="OSM Map View"/>
-<entry key="hasContent" type="xboolean" value="false"/>
+<entry key="hasContent" type="xboolean" value="true"/>
 <entry key="isInactive" type="xboolean" value="false"/>
 <config key="ports"/>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" value="fd084f79-5987-4420-92f8-0d1d2da62f60"/>
 </config>
 </config>

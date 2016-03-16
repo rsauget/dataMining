@@ -26,31 +26,36 @@
 <entry key="EnabledStatus" type="xboolean" value="true"/>
 </config>
 <entry key="minSetSize" type="xint" value="1"/>
-<config key="minSupport_Internals">
-<entry key="SettingsModelID" type="xstring" value="SMID_double"/>
-<entry key="EnabledStatus" type="xboolean" value="true"/>
-</config>
-<entry key="minSupport" type="xdouble" value="10.0"/>
 <config key="supportType_Internals">
 <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
 </config>
 <entry key="supportType" type="xstring" value="PERCENTAGE"/>
+<config key="minSupport_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_double"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="minSupport" type="xdouble" value="10.0"/>
 <config key="threshold_Internals">
 <entry key="SettingsModelID" type="xstring" value="SMID_double"/>
 <entry key="EnabledStatus" type="xboolean" value="false"/>
 </config>
 <entry key="threshold" type="xdouble" value="10.0"/>
-<config key="sortItemSet_Internals">
-<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
-<entry key="EnabledStatus" type="xboolean" value="true"/>
+<config key="weight_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_double"/>
+<entry key="EnabledStatus" type="xboolean" value="false"/>
 </config>
-<entry key="sortItemSet" type="xboolean" value="false"/>
+<entry key="weight" type="xdouble" value="0.0"/>
 <config key="additionalParameter_Internals">
 <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
 </config>
 <entry key="additionalParameter" type="xstring" value=""/>
+<config key="sortItemSet_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="sortItemSet" type="xboolean" value="false"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
 <entry key="state" type="xstring" value="EXECUTED"/>
@@ -79,6 +84,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="87bcf535-d8ac-4f85-b234-aaaa9b22990e"/>
+<entry key="file_store_id" type="xstring" value="92862f17-2d43-491f-8cfc-bf0a6d999ffa"/>
 </config>
 </config>

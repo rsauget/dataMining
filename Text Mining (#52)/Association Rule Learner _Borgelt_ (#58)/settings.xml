@@ -11,51 +11,51 @@
 <entry key="EnabledStatus" type="xboolean" value="true"/>
 </config>
 <entry key="columnName" type="xstring" value="BitVector"/>
-<config key="minSetSize_Internals">
-<entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
-<entry key="EnabledStatus" type="xboolean" value="true"/>
-</config>
-<entry key="minSetSize" type="xint" value="1"/>
-<config key="minSupport_Internals">
-<entry key="SettingsModelID" type="xstring" value="SMID_double"/>
-<entry key="EnabledStatus" type="xboolean" value="true"/>
-</config>
-<entry key="minSupport" type="xdouble" value="4.0"/>
-<config key="supportType_Internals">
-<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
-<entry key="EnabledStatus" type="xboolean" value="true"/>
-</config>
-<entry key="supportType" type="xstring" value="PERCENTAGE"/>
-<config key="threshold_Internals">
-<entry key="SettingsModelID" type="xstring" value="SMID_double"/>
-<entry key="EnabledStatus" type="xboolean" value="true"/>
-</config>
-<entry key="threshold" type="xdouble" value="5.0"/>
-<config key="sortItemSet_Internals">
-<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
-<entry key="EnabledStatus" type="xboolean" value="true"/>
-</config>
-<entry key="sortItemSet" type="xboolean" value="false"/>
-<config key="additionalParameter_Internals">
-<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
-<entry key="EnabledStatus" type="xboolean" value="true"/>
-</config>
-<entry key="additionalParameter" type="xstring" value=""/>
-<config key="setType_Internals">
-<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
-<entry key="EnabledStatus" type="xboolean" value="true"/>
-</config>
-<entry key="setType" type="xstring" value="ASSOCIATION_RULE"/>
 <config key="itemSetAlgorithm_Internals">
 <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
 </config>
 <entry key="itemSetAlgorithm" type="xstring" value="APRIORI_ASSOCIATION_RULE"/>
+<config key="setType_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="setType" type="xstring" value="ASSOCIATION_RULE"/>
+<config key="minSetSize_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="minSetSize" type="xint" value="1"/>
+<config key="supportType_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="supportType" type="xstring" value="PERCENTAGE"/>
+<config key="minSupport_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_double"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="minSupport" type="xdouble" value="4.0"/>
+<config key="threshold_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_double"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="threshold" type="xdouble" value="5.0"/>
 <config key="weight_Internals">
 <entry key="SettingsModelID" type="xstring" value="SMID_double"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
 </config>
 <entry key="weight" type="xdouble" value="0.0"/>
+<config key="additionalParameter_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="additionalParameter" type="xstring" value=""/>
+<config key="sortItemSet_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="sortItemSet" type="xboolean" value="false"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
 <entry key="state" type="xstring" value="EXECUTED"/>
@@ -78,12 +78,12 @@
 <entry key="index" type="xint" value="1"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 2786, Cols: 11"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 261, Cols: 11"/>
 <entry key="port_dir_location" type="xstring" value="port_1"/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="90c2467e-7d8f-47a1-964b-9587fbd081a5"/>
+<entry key="file_store_id" type="xstring" value="6cd78e4c-a326-42e9-a7a9-fe777a051329"/>
 </config>
 </config>
